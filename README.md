@@ -420,7 +420,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 *Connecting professionals, one conversation at a time.*
 
-[Visit Platform](https://helixque.vercel.app/) • [Join Discord](#) • [Star on GitHub](https://github.com/Petsamuel/helixque-landing)
+[Visit Platform](https://helixque.vercel.app/) • [Join Discord](#) • [Star on GitHub](#)
 
 </div>
 
