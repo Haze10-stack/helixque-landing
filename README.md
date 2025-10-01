@@ -16,7 +16,7 @@
 - [Why Helixque Matters](#-why-helixque-matters)
 - [Join the Community](#-join-the-helixque-community)
 - [Getting Started](#-getting-started-with-helixque)
-- [Development Setup](#-development-setup)
+- [Development Setup](#️-development-setup)
 - [Contributing](#-contributing-to-the-landing-page)
 - [Tech Stack](#-technology-stack)
 
@@ -173,9 +173,9 @@ Helixque is more than just a platform, it's a growing network of professionals p
 ### Get Involved
 
 - 🌐 **Visit Platform**: [helixque.vercel.app](https://helixque.vercel.app/)
-- ⭐ **Star on GitHub**: Support the project and stay updated
-- 💬 **Join Discord**: Connect with the community and provide feedback
-- 🐛 **Report Issues**: Help improve the platform by reporting bugs
+- ⭐ **Star on GitHub**: [github.com/HXQLabs/helixque-landing](https://github.com/HXQLabs/helixque-landing)
+- 💬 **Join Discord**: [discord.gg/helixque](https://discord.gg/helixque)
+- 🐛 **Report Issues**: [GitHub Issues](https://github.com/HXQLabs/helixque-landing/issues)
 - 🎨 **Contribute**: Submit PRs for features, fixes, or documentation
 
 ## Getting Started with Helixque
@@ -264,7 +264,7 @@ The design follows established principles of visual hierarchy:
 - **Theme Management**: [next-themes](https://github.com/pacocoursey/next-themes)
 - **Package Manager**: [Bun](https://bun.sh/)
 
-## � Development Setup
+## Development Setup
 
 Want to run this landing page locally or contribute? Follow these steps:
 
@@ -420,8 +420,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 *Connecting professionals, one conversation at a time.*
 
-[Visit Platform](https://helixque.vercel.app/) • [Join Discord](#) • [Star on GitHub](#)
+[Visit Platform](https://helixque.vercel.app/) • [Join Discord](https://discord.gg/helixque) • [Star on GitHub](https://github.com/HXQLabs/helixque-landing)
 
 </div>
-
-
