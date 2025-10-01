@@ -1,24 +1,19 @@
-<div align="center">
+# Helixque
 
-<img src="https://helixque.vercel.app/logo.svg" alt="Helixque Logo" width="200" />
-
+![Helixque Logo](https://helixque.vercel.app/logo.svg)
 
 > **Official landing page for [Helixque](https://helixque.vercel.app/)** - a professional networking platform where developers, designers, founders, and learners connect for instant matching based on skills, industry, and language.
-### Helixque Landing Page
-
-</div>
 
 ## Table of Contents
 
-- [About Helixque](#-about-helixque)
-- [Landing Page Features](#-landing-page-features)
-- [Landing Page Sections](#-landing-page-sections)
-- [Why Helixque Matters](#-why-helixque-matters)
-- [Join the Community](#-join-the-helixque-community)
-- [Getting Started](#-getting-started-with-helixque)
-- [Development Setup](#️-development-setup)
-- [Contributing](#-contributing-to-the-landing-page)
-- [Tech Stack](#-technology-stack)
+- [About Helixque](#about-helixque)
+- [Landing Page Features](#landing-page-features)
+- [Landing Page Sections](#landing-page-sections)
+- [Why Helixque Matters](#why-helixque-matters)
+- [Join the Community](#join-the-helixque-community)
+- [Getting Started](#getting-started-with-helixque)
+- [Development Setup](#development-setup)
+- [Tech Stack](#technology-stack)
 
 ---
 
@@ -157,7 +152,6 @@ Sophisticated dark/light mode implementation:
 - **Font Loading**: Geist font family with display optimization
 - **CSS Optimization**: Tailwind CSS with purging for minimal bundle size
 
-
 ## Join the Helixque Community
 
 Helixque is more than just a platform, it's a growing network of professionals practicing together in a safe, structured environment.
@@ -252,7 +246,6 @@ The design follows established principles of visual hierarchy:
 - **Spacing System**: Mathematical spacing scale for visual harmony
 - **Component States**: Clear visual feedback for all interactive elements
 
-
 ## Technology Stack
 
 - **Framework**: [Next.js 15](https://nextjs.org) with App Router
@@ -275,14 +268,14 @@ Want to run this landing page locally or contribute? Follow these steps:
 
 ### Installation
 
-1. Clone the repository:
+1; Clone the repository:
 
 ```bash
 git clone https://github.com/Petsamuel/helixque-landing.git
 cd helixque-landing
 ```
 
-2. Install dependencies:
+2; Install dependencies:
 
 ```bash
 bun install
@@ -290,7 +283,7 @@ bun install
 npm install
 ```
 
-3. Start the development server:
+3; Start the development server:
 
 ```bash
 bun dev
@@ -298,7 +291,7 @@ bun dev
 npm run dev
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+4; Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 📁 Project Structure
 
@@ -414,12 +407,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-<div align="center">
+Built with ❤️ for the Helixque Community
 
-**Built with ❤️ for the Helixque Community**
-
-*Connecting professionals, one conversation at a time.*
+_Connecting professionals, one conversation at a time._
 
 [Visit Platform](https://helixque.vercel.app/) • [Join Discord](https://discord.gg/helixque) • [Star on GitHub](https://github.com/HXQLabs/helixque-landing)
-
-</div>
