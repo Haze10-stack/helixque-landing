@@ -1,9 +1,12 @@
-# 🌐 Helixque Landing Page
+<div align="center">
+
+<img src="https://helixque.vercel.app/logo.svg" alt="Helixque Logo" width="200" />
+
 
 > **Official landing page for [Helixque](https://helixque.vercel.app/)** - a professional networking platform where developers, designers, founders, and learners connect for instant matching based on skills, industry, and language.
+### Helixque Landing Page
 
-
-
+</div>
 
 ## Table of Contents
 
