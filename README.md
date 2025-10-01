@@ -176,11 +176,11 @@ Helixque is more than just a platform, it's a growing network of professionals p
 
 ### For Users
 
-1. Visit [helixque.vercel.app](https://helixque.vercel.app/)
-2. Create your profile with skills, experience level, and preferences
-3. Get matched instantly with professionals who match your goals
-4. Start collaborating through text chat or video calls
-5. Build your network and improve your skills
+1; Visit [helixque.vercel.app](https://helixque.vercel.app/)
+2; Create your profile with skills, experience level, and preferences
+3; Get matched instantly with professionals who match your goals
+4; Start collaborating through text chat or video calls
+5; Build your network and improve your skills
 
 ### For Contributors (This Landing Page)
 
@@ -271,7 +271,7 @@ Want to run this landing page locally or contribute? Follow these steps:
 1; Clone the repository:
 
 ```bash
-git clone https://github.com/Petsamuel/helixque-landing.git
+git clone https://github.com/HXQLabs/helixque-landing.git
 cd helixque-landing
 ```
 
@@ -338,12 +338,12 @@ We welcome contributions to improve the Helixque landing page! Here's how you ca
 
 ### Contribution Guidelines
 
-1. Fork this repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes and test thoroughly
-4. Commit your changes (`git commit -m 'Add amazing feature'`)
-5. Push to your branch (`git push origin feature/amazing-feature`)
-6. Open a Pull Request
+1; Fork this repository
+2; Create a feature branch (`git checkout -b feature/amazing-feature`)
+3; Make your changes and test thoroughly
+4; Commit your changes (`git commit -m 'Add amazing feature'`)
+5; Push to your branch (`git push origin feature/amazing-feature`)
+6; Open a Pull Request
 
 ### Code Standards
 
