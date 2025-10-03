@@ -1,6 +1,7 @@
 # Helixque
 
 ![Helixque Logo](https://helixque.vercel.app/logo.svg)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 
 > **Official landing page for [Helixque](https://helixque.vercel.app/)** - a professional networking platform where developers, designers, founders, and learners connect for instant matching based on skills, industry, and language.
 
